@@ -29,7 +29,7 @@ IDs and paths only. Verified 2026-11-18.
 | What | Value |
 |---|---|
 | Repo | GitHub `macfighterpilot/andante-site` (private), branch `main`; commit author = founder's GitHub noreply |
-| Vercel | team `clawb`, project `andante-site` → https://andante-site.vercel.app (CLI deploys; production deploy of this demo authorised by the founder 2026-11-18). Git not connected |
+| Vercel | team `clawb`, project `andante-site` → https://andante-site-one.vercel.app (CLI deploys; production deploy of this demo authorised by the founder 2026-11-18). Git not connected |
 | Domain | none (founder: no custom domain, no DNS) |
 | Backend | none |
 | Client contact | andante.horseriding@gmail.com, Instagram @andante.horseriding |
